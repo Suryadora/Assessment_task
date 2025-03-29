@@ -22,6 +22,7 @@ Credit Rating Agency - Residential Mortgage Securities (RMBS)
 **Solution Structure:**
 
 credit_rating_mock
+
 |-- credit_rating.py        # Business logic for calculating credit rating
 
 |-- test_credit_rating.py   # Unit tests for the solution
